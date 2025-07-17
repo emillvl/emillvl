@@ -1,18 +1,10 @@
 # Hi there! 👋
 
-I'm Emil, a 16-year-old developer from Azerbaijan, passionate about **Cybersecurity** and **AI/ML**
+I'm Emil, a 16-year-old developer from Azerbaijan.
 
-- 🚀 I enjoy exploring the latest in **Artificial Intelligence** and **Machine Learning**.
-- 🛡️ Cybersecurity enthusiast—always eager to learn about new exploits and defenses.
-- 💻 I code in **Node.js** and **Python**.
-- ⚙️ Proficient in system-level programming with **C** and **C++**.
-
----
-
-## 🛠️ Skills
-
-- **Languages:** Python, JavaScript (Node.js), C, C++
-- **Interests:** Cybersecurity, Machine Learning, Artificial Intelligence, Systems Programming, Malware Analysis.
+**Cybersecurity**-Red team, **AI/ML** enthusiast.
+I code in **Python, JavaScript(Node.js).**
+I am proficient in system-level coding with **C,C++**
 
 ## 📫 Get in Touch
 
@@ -28,4 +20,4 @@ Feel free to connect or collaborate!
 
 ---
 
-*Always learning. Always building.*
+Emil Veliyev.
