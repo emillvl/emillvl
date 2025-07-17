@@ -3,7 +3,12 @@
 I'm Emil, a 16-year-old developer from Azerbaijan.
 
 **Cybersecurity**-Red team, **AI/ML** enthusiast.
+
+
 I code in **Python, JavaScript(Node.js).**
+
+---
+
 I am proficient in system-level coding with **C,C++**
 
 ## 📫 Get in Touch
