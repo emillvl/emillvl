@@ -23,7 +23,7 @@ Feel free to connect or collaborate!
 <a href="https://linkedin.com/in/emil-v-617303375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emil-v-617303375" height="30" width="40" /></a>
 </p>
 
-
+**📨: iam@emilveliyev.com**
 ---
 
 Emil Veliyev.
