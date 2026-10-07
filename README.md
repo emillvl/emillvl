@@ -1,4 +1,4 @@
-I build systems that are resilient, efficient and accessible. My aim is to make these systems serve people rather than exploit or manipulate them. My work is driven by exposing risks and drawbacks—especially invasive, deceptive or bloating technologies—to create safer, more transparent alternatives while supporting and creating innovations that improve people's lives.
+I build systems that are resilient, efficient and accessible. My aim is to make these systems serve people. My work is driven by exposing risks and drawbacks-especially invasive, deceptive or bloating technologies-to create safer, more transparent alternatives while supporting and creating innovations that improve people's lives.
 
 
 Connect:
